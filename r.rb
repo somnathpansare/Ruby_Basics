@@ -32,3 +32,7 @@
 
 	first.display()
 	second.display()
+
+	# call another method
+
+	third.display()
