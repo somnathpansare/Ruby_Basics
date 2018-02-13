@@ -35,3 +35,5 @@
 
 	# call another method
 	third.display()
+	# add another method
+	fourth.display()
